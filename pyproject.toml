@@ -2,7 +2,7 @@
 name = "pepkio-realistic-random-seq-generator"
 version = "0.1.0"
 description = "Python client for Pepkio realistic-random-seq-generator tool"
-readme = "README.md"
+readme = "README_PYPI.md"
 requires-python = ">=3.10"
 dependencies = [
     "click>=8.0.0",
